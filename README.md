@@ -1,1 +1,4 @@
 # FASE_Algorithm
+
+Conventional service function chaining (SFC) poses requirements of additional processing time of service functions (SFs) and increased routing time owing to detoured paths. To solve these problems, approaches for the implementation of SFC in PDP switch that can satisfy the requested SF processing orders have been studied, which can be categorized into: 1) a redundant SF approach and 2) re-circulation approach. However, the redundant SF and re-circulation approaches have contrasting advantages and disadvantages.  Thus, we attempt to find the optimal SF embedding strategy that minimizes the SFC completion time while utilizing the PDP switch resource efficiently by achieving a balance between these approaches. A flow-aware SF embedding (FASE) algorithm that complementary combines the redundant SF and re-circulation approaches is devised to solve the formulated optimization problem with low-complexity.
+
